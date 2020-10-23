@@ -34,10 +34,18 @@
 - Epics are almost always delivered over a set of sprints. As a team learns more about an epic through development and customer feedback, user stories will be added and removed as necessary. 
 
 
+
 ### Epic Stories in Agile
  - Epics are large work items broken down into a set of stories, and multiple epics comprise an initiative. These larger structures ensure that the day to day work of the development team contributes to the organizational goals built into epics and initiatives.
  
  - That’s the key with agile epics: Scope is flexible, based on customer feedback and team cadence.
 
  ![UseCases](Image.png)
+
+
+ #### Constructing Agile Epics
+ **Creating epics around a team’s quarterly goals or OKRs is a great start. When creating an epic, consider the following:**
+ - Reporting — Create epics for the projects that managers and executives will want to keep an eye on.
+ - Culture — Let organizational culture dictate the size and granularity of an epic.
+
 
