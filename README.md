@@ -13,6 +13,9 @@
 
  - Generally a story is written by the product owner, product manager, or program manager and submitted for review.
 
+ ### Example
+ Multiple teams are working on a project. The client asks that they want X Y Z functionality in their software as this will allow them to be more efficient (for example). These X Y Z conditions would be considered a story together with the reasoning for why they should be created. As the client is after efficiency the team knows what they need to keep in mind while fullfilling the requirements.
+
 
 ### User stories in Agile
 
@@ -33,6 +36,9 @@
 
 - Epics are almost always delivered over a set of sprints. As a team learns more about an epic through development and customer feedback, user stories will be added and removed as necessary. 
 
+### Example
+A company does a project. This project has to be fullfilled by multiple departments coordinating together. This project would be considered an Epic, as each story is aimed at fullfilling the main Epic. Its important that each team supports each other for an epic to be completed
+
 
 
 ### Epic Stories in Agile
@@ -43,7 +49,7 @@
  ![UseCases](Image.png)
 
 
- #### Constructing Agile Epics
+ ### Constructing Agile Epics
  **Creating epics around a team’s quarterly goals or OKRs is a great start. When creating an epic, consider the following:**
  - Reporting — Create epics for the projects that managers and executives will want to keep an eye on.
  - Culture — Let organizational culture dictate the size and granularity of an epic.
