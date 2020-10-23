@@ -48,10 +48,8 @@ A company does a project. This project has to be fullfilled by multiple departme
 
  ![UseCases](Image.png)
 
+**Epics are not the absolute foundation of an agile program, but they are the practical drivers for most agile teams. Understanding where they fit into a healthy agile program creates context for your work, breaking them down into stories creates momentum.**
 
- ### Constructing Agile Epics
- **Creating epics around a team’s quarterly goals or OKRs is a great start. When creating an epic, consider the following:**
- - Reporting — Create epics for the projects that managers and executives will want to keep an eye on.
- - Culture — Let organizational culture dictate the size and granularity of an epic.
+
 
 
